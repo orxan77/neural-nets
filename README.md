@@ -28,7 +28,6 @@ The notebook also contains building a custom model, custom data loader, implemen
 The dataset is MNIST hand written digits. The following images show the model architecture and the results of the network as confusion matrix.
 
 <ul>
-    <img src="figures/ffn_model.png" width=300px style="background-color: #FFFFFF;">
-    <br>
     <img src="figures/ffn_res.png" width=300px style="background-color: #FFFFFF;">
+    <img src="figures/ffn_model.png" width=300px style="background-color: #FFFFFF;">
 </ul>
