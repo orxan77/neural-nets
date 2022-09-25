@@ -68,3 +68,13 @@ The network architecture is almost the same as the AutoEncoder however there is 
 
 <img src="figures/var_autoencoder_res2.png">
 <img src="figures/var_autoencoder_res1.png">
+
+## Part 3
+
+The third part of the project deals with the Reinforcement Learning. Two approaches have been implemented:
+- Inputs from Gym Environment as actions fed to Network.
+- Screen pixels from Gym Window fed to Convolutional Network.
+
+I have used the Softmax policy as an exploration policy.
+
+<img src="figures/rl_training.png">  
